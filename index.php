@@ -88,7 +88,7 @@
                     data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
                     <!-- <img src="assets/homepage/images/left-image.png" class="rounded img-fluid d-block mx-auto"
                         alt="App"> -->
-                    <img src="dist/img/ppe2.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                    <img src="dist/img/ppe2.PNG" class="rounded img-fluid d-block mx-auto" alt="App">
                 </div>
                 <div class="right-text col-lg-5 col-md-12 col-sm-12 mobile-top-fix">
                     <div class="left-heading">
